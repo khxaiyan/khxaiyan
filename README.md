@@ -36,7 +36,7 @@ Aiyan khan 🧛
   * X (Twitter): [@khxaiyan](https://twitter.com/khxaiyan)
   * Bluesky: [@khxaiyan.bsky.social](https://bsky.app/profile/khxaiyan.bsky.social)
   * Mastodon: [@khxaiyan@mastodon.social](https://mastodon.social/@khxaiyan)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khxaiyan&label=Profile%20views&color=0e75b6&style=flat" alt="khxaiyan" height="30"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khxaiyan&label=Profile%20views&color=000000&style=flat" alt="Profile views" height="30"/> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
